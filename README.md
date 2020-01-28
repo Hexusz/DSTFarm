@@ -1,4 +1,4 @@
-<b>Фарм ежедневных предметов в Dont start together:</b>
+<b>Фарм ежедневных предметов в Don't starve together:</b>
 <br>
 Необходимо: <br>
 <b>1</b> Заполнить файл login.txt<br>
